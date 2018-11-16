@@ -1,0 +1,3 @@
+“word1”;”translation1”
+“word2”;”transcription2”;”translation2”
+“word3”;”translation3”;”example1”;”ex.translation1”
